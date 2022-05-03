@@ -1,2 +1,2 @@
-# API-CNN
-Code d'un réseau de neurones de zéro
+# mini-torch
+Ce projet consiste à reproduire l'implémentation des couches modulaire des CNN dans PyTorch (les couches linéaires, couche de convolution, fonction d'activation et des fonctions loss et optomzers).
